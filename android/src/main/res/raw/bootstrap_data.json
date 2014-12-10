@@ -35,7 +35,7 @@
             "mainTag": "TOPIC_ANDROID",
             "startTimestamp": "2014-12-13T08:30:00Z",
             "endTimestamp": "2014-12-13T09:45:00Z",
-            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/bgrnd.jpg",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/io4.jpg",
             "youtubeUrl": "dQw4w9WgXcQ",
             "speakers": [
                 "SPEAKER6"
@@ -57,7 +57,7 @@
             "mainTag": "TOPIC_ANGULAR",
             "startTimestamp": "2014-12-13T08:30:00Z",
             "endTimestamp": "2014-12-13T09:45:00Z",
-            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/bgrnd.jpg",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
             "youtubeUrl": "dQw4w9WgXcQ",
             "speakers": [
                 "SPEAKER8"
@@ -79,7 +79,7 @@
             "mainTag": "TOPIC_UX",
             "startTimestamp": "2014-12-13T08:30:00Z",
             "endTimestamp": "2014-12-13T09:45:00Z",
-            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/bgrnd.jpg",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg4.jpg",
             "youtubeUrl": "dQw4w9WgXcQ",
             "speakers": [
                 "SPEAKER9"
@@ -101,7 +101,7 @@
             "mainTag": "TOPIC_CLOUD",
             "startTimestamp": "2014-12-13T08:30:00Z",
             "endTimestamp": "2014-12-13T09:45:00Z",
-            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/bgrnd.jpg",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg5.jpeg",
             "youtubeUrl": "dQw4w9WgXcQ",
             "speakers": [
                 "SPEAKER5"
@@ -109,6 +109,94 @@
             "room": "ROOM4",
             "isLivestream": false,
             "hashtag": "cloud"
+        },
+        {
+            "id": "SESSION5",
+            "description": "Get started with Polymer",
+            "title": "Polymer Development",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_CLOUD",
+            "startTimestamp": "2014-12-13T10:00:00Z",
+            "endTimestamp": "2014-12-13T11:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg5.jpeg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER5"
+            ],
+            "room": "ROOM1",
+            "isLivestream": false,
+            "hashtag": "polymer"
+        },
+        {
+            "id": "SESSION6",
+            "description": "Developing for Wearables",
+            "title": "Android Wear",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_ANDROID",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_ANDROID",
+            "startTimestamp": "2014-12-13T10:00:00Z",
+            "endTimestamp": "2014-12-13T11:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/io4.jpg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER6"
+            ],
+            "room": "ROOM2",
+            "isLivestream": false,
+            "hashtag": "android"
+        },
+        {
+            "id": "SESSION7",
+            "description": "Learning about Source Control",
+            "title": "Get with Git",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_TOOLS",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_TOOLS",
+            "startTimestamp": "2014-12-13T10:00:00Z",
+            "endTimestamp": "2014-12-13T11:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/io4.jpg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER6"
+            ],
+            "room": "ROOM3",
+            "isLivestream": false,
+            "hashtag": "git"
+        },
+        {
+            "id": "SESSION7",
+            "description": "Google Maps Development",
+            "title": "Maps Maps Everywhere",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_TOOLS",
+            "startTimestamp": "2014-12-13T10:00:00Z",
+            "endTimestamp": "2014-12-13T11:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/io4.jpg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM3",
+            "isLivestream": false,
+            "hashtag": "googlemaps"
         }
     ],
     "speakers": [
@@ -220,11 +308,19 @@
         },
         {
             "category": "TOPIC",
+            "tag": "TOPIC_TOOLS",
+            "name": "Dev Tools",
+            "abstract": "",
+            "order_in_category": 5,
+            "color": "#DF184D"
+        },
+        {
+            "category": "TOPIC",
             "tag": "TOPIC_ANGULAR",
             "name": "AngularJS",
             "abstract": "",
             "order_in_category": 2,
-            "color": "#558b2f"
+            "color": "#0F65D4"
         },
         {
             "category": "TOPIC",
@@ -232,7 +328,7 @@
             "name": "Cloud Dev",
             "abstract": "",
             "order_in_category": 3,
-            "color": "#558b2f"
+            "color": "#EF7911"
         },
         {
             "category": "TOPIC",
@@ -240,7 +336,7 @@
             "name": "UI/UX",
             "abstract": "",
             "order_in_category": 4,
-            "color": "#558b2f"
+            "color": "#EF1911"
         },
         {
             "category": "THEME",
