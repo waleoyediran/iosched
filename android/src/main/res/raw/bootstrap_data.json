@@ -177,7 +177,7 @@
             "hashtag": "git"
         },
         {
-            "id": "SESSION7",
+            "id": "SESSION8",
             "description": "Google Maps Development",
             "title": "Maps Maps Everywhere",
             "url": "http://gdaysnigeria.com",
@@ -197,6 +197,314 @@
             "room": "ROOM3",
             "isLivestream": false,
             "hashtag": "googlemaps"
+        },
+        {
+            "id": "SESSION9",
+            "description": "Lets get started with Android",
+            "title": "Android Bootcamp 2",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_ANDROID",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_ANDROID",
+            "startTimestamp": "2014-12-13T11:30:00Z",
+            "endTimestamp": "2014-12-13T12:45:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER6"
+            ],
+            "room": "ROOM1",
+            "isLivestream": false,
+            "hashtag": "android"
+        },
+        {
+            "id": "SESSION10",
+            "description": "Taking Chrome to the Limits",
+            "title": "Chrome Dev Tools",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_TOOLS",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_TOOLS",
+            "startTimestamp": "2014-12-13T11:30:00Z",
+            "endTimestamp": "2014-12-13T12:45:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM2",
+            "isLivestream": false,
+            "hashtag": "chromedev"
+        },
+        {
+            "id": "SESSION11",
+            "description": "User Experience",
+            "title": "UI/UX2",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_UX",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_UX",
+            "startTimestamp": "2014-12-13T11:30:00Z",
+            "endTimestamp": "2014-12-13T12:45:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg1.jpg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM3",
+            "isLivestream": false,
+            "hashtag": "ux"
+        },
+        {
+            "id": "SESSION12",
+            "description": "Cloud BootCamp 2",
+            "title": "Cloud Bootcamp 2",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_CLOUD",
+            "startTimestamp": "2014-12-13T11:30:00Z",
+            "endTimestamp": "2014-12-13T12:45:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg5.jpeg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM4",
+            "isLivestream": false,
+            "hashtag": "cloud"
+        },
+        {
+            "id": "SESSION13",
+            "description": "Just Go",
+            "title": "Go Development",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_CLOUD",
+            "startTimestamp": "2014-12-13T11:30:00Z",
+            "endTimestamp": "2014-12-13T12:45:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER3"
+            ],
+            "room": "ROOM2",
+            "isLivestream": false,
+            "hashtag": "golang"
+        },
+        {
+            "id": "SESSION14",
+            "description": "Polymer Development",
+            "title": "Polymer 2",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_TOOLS",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_TOOLS",
+            "startTimestamp": "2014-12-13T13:00:00Z",
+            "endTimestamp": "2014-12-13T14:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER6"
+            ],
+            "room": "ROOM1",
+            "isLivestream": false,
+            "hashtag": "polymer"
+        },
+        {
+            "id": "SESSION15",
+            "description": "Angularious",
+            "title": "AngularJS 2",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_ANGULAR",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_ANGULAR",
+            "startTimestamp": "2014-12-13T13:00:00Z",
+            "endTimestamp": "2014-12-13T14:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM2",
+            "isLivestream": false,
+            "hashtag": "angular"
+        },
+        {
+            "id": "SESSION16",
+            "description": "Maps Development",
+            "title": "Google Maps Dev",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_CLOUD",
+            "startTimestamp": "2014-12-13T13:00:00Z",
+            "endTimestamp": "2014-12-13T14:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg2.jpg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM3",
+            "isLivestream": false,
+            "hashtag": "ux"
+        },
+        {
+            "id": "SESSION17",
+            "description": "Cloud BootCamp (Advaced Track)",
+            "title": "EXTREME CLOUD DEV",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_CLOUD",
+            "startTimestamp": "2014-12-13T13:00:00Z",
+            "endTimestamp": "2014-12-13T14:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg5.jpeg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM4",
+            "isLivestream": false,
+            "hashtag": "cloud"
+        },
+        {
+            "id": "SESSION18",
+            "description": "Hackathon Briefings",
+            "title": "Hackathon Briefings",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_TOOLS",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_TOOLS",
+            "startTimestamp": "2014-12-13T13:00:00Z",
+            "endTimestamp": "2014-12-13T14:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM5",
+            "isLivestream": false,
+            "hashtag": "hackathon"
+        },
+        {
+            "id": "SESSION19",
+            "description": "Android Bootcamp 3",
+            "title": "Android Bootcamp 3",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_ANDROID",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_ANDROID",
+            "startTimestamp": "2014-12-13T15:00:00Z",
+            "endTimestamp": "2014-12-13T16:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER5"
+            ],
+            "room": "ROOM1",
+            "isLivestream": false,
+            "hashtag": "android"
+        },
+        {
+            "id": "SESSION20",
+            "description": "Hacking the way to Democracy for 2015",
+            "title": "Hacking the way to Democracy for 2015",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_TOOLS",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_TOOLS",
+            "startTimestamp": "2014-12-13T15:00:00Z",
+            "endTimestamp": "2014-12-13T16:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg2.jpg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM2",
+            "isLivestream": false,
+            "hashtag": "election2015"
+        },
+        {
+            "id": "SESSION21",
+            "description": "Extreme Android (Advaced Track)",
+            "title": "EXTREME Android DEV",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_ANDROID",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_ANDROID",
+            "startTimestamp": "2014-12-13T15:00:00Z",
+            "endTimestamp": "2014-12-13T16:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg5.jpeg",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM4",
+            "isLivestream": false,
+            "hashtag": "android"
+        },
+        {
+            "id": "SESSION22",
+            "description": "Cloud BootCamp 4",
+            "title": "Cloud BootCamp",
+            "url": "http://gdaysnigeria.com",
+            "tags": [
+                "TYPE_SESSION",
+                "TOPIC_CLOUD",
+                "THEME_DEVELOP"
+            ],
+            "mainTag": "TOPIC_CLOUD",
+            "startTimestamp": "2014-12-13T15:00:00Z",
+            "endTimestamp": "2014-12-13T16:00:00Z",
+            "photoUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/gdg3.JPG",
+            "youtubeUrl": "dQw4w9WgXcQ",
+            "speakers": [
+                "SPEAKER8"
+            ],
+            "room": "ROOM5",
+            "isLivestream": false,
+            "hashtag": "cloud"
         }
     ],
     "speakers": [
@@ -245,7 +553,7 @@
             "name": "ABIOLA IBRAHIM",
             "bio": "Abiola is a Software Engineer at Konga and has been developing with range of technologies for about 7 years and has been using the Go Programming Language since its release in 2009.",
             "plusoneUrl": "https://plus.google.com/+AbiolaIbrahim",
-            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/moyin.jpg",
+            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/biola.jpg",
             "company": "Konga Online Shopping"
         },
         {
@@ -253,7 +561,7 @@
             "name": "MFAWA ALFRED ONEN",
             "bio": "Mfawa have been a developer for many years and have built systems used to solve challenges in demanding environments. He will be teaching Polymer and showing why it is the future of the web.",
             "plusoneUrl": "https://plus.google.com/109366846323823830968",
-            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/moyin.jpg",
+            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/mfawa.jpg",
             "company": "Not Available Yet"
         },
         {
@@ -261,7 +569,7 @@
             "name": "SUNDAY AKINSETE",
             "bio": "Author of many Android Apps and Co-Founder Efiko - a multiple award winning mobile platform designed to enhance learning through self-assessment. Sunday is an excellent mobile applications developer and built TrackMyCash, an application that won the Africa Android Challenge 2013 for Nigeria.",
             "plusoneUrl": "https://plus.google.com/105512908555757671148",
-            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/moyin.jpg",
+            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/sunday_akinsete.jpg.jpg",
             "company": "INITS NG"
         },
         {
@@ -277,7 +585,7 @@
             "name": "DOYIN KASSEM",
             "bio": "With many years of web development experience under his belt, Doyin will show how the Chrome DevTools provide web developers deep access into the internals of the browser and their web applications. He will also show how to use the DevTools to efficiently track down layout issues and get insights for code optimization.",
             "plusoneUrl": "https://plus.google.com/116010703929816839550",
-            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/moyin.jpg",
+            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/doyin.jpg",
             "company": "Not Available Yet"
         },
         {
@@ -285,7 +593,7 @@
             "name": "NANYAK LOKNAN",
             "bio": "Currently working with Delivery Science as a web applications developer, Dev-Ops person and resident Git enthusiast, he helps create awesome applications with cutting edge technologies and techniques while having fun maintaining several servers and cloud deployments. He is fluent in PHP, Python and currently writes a ton of Javascript for the frontend with angular.js and the Backend with Node.js (using the express.js and sails.js frameworks). He believes in simple, yet beautifully crafted software architectures. Join Nanyak as he takes a bootcamp session on how to use AngularJS as a toolset for building the framework most suited to your application development.",
             "plusoneUrl": "https://plus.google.com/+NanyakLoknanS",
-            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/moyin.jpg",
+            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/loknan.jpg",
             "company": "Delivery Science"
         },
         {
@@ -293,7 +601,7 @@
             "name": "BERNARD OJENGWA",
             "bio": "Bernard Ojengwa is a Ninja at the Andela Institute, a global talent accelerator that produces world class developers and connects them with top employers. He was the GDG lead at the University of Nigeria chapter. He is a full-stack developer with experience working with the LAMP, LEMP and MEAN stacks and considers Python his favorite programming language.",
             "plusoneUrl": "https://plus.google.com/+BernardOjengwa",
-            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/moyin.jpg",
+            "thumbnailUrl": "http://storage.googleapis.com/gdg-gdays-2014/images/bernard.jpg",
             "company": "Andela"
         }
     ],
@@ -351,6 +659,20 @@
             "name": "Business Track",
             "abstract": "",
             "order_in_category": 11
+        }
+    ],
+    "hashtags": [
+        {
+            "color": "#ff8a65",
+            "description": "Experience the magic of GDAys remotely",
+            "name": "#gdays14",
+            "order": 11
+        },
+        {
+            "color": "#008a65",
+            "description": "Find All GDays Photos",
+            "name": "#gdays14photos",
+            "order": 11
         }
     ]
 }
