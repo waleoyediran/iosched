@@ -35,7 +35,7 @@ public class Config {
     public static final String DOGFOOD_BUILD_WARNING_TEXT = "This is a test build.";
 
     // Public data manifest URL
-    public static final String PROD_CONFERENCE_DATA_MANIFEST_URL = "";
+    public static final String PROD_CONFERENCE_DATA_MANIFEST_URL = "http://storage.googleapis.com/gdg-gdays-2014/manifest.json";
 
     // Manifest URL override for Debug (staging) builds:
     public static final String MANIFEST_URL = PROD_CONFERENCE_DATA_MANIFEST_URL;
@@ -56,12 +56,12 @@ public class Config {
 
     public static final long[][] CONFERENCE_DAYS = new long[][] {
             // start and end of day 1
-            { ParserUtils.parseTime("2014-12-12T09:00:00.000Z"),
-              ParserUtils.parseTime("2014-12-12T05:59:59.999Z") },
+            { ParserUtils.parseTime("2014-12-12T07:00:00.000Z"),
+                    ParserUtils.parseTime("2014-12-12T17:59:59.999Z") },
             // start and end of day 2
-            { ParserUtils.parseTime("2014-12-13T09:00:00.000Z"),
-              ParserUtils.parseTime("2014-12-13T05:59:59.999Z") },
-        };
+            { ParserUtils.parseTime("2014-12-13T08:00:00.000Z"),
+                    ParserUtils.parseTime("2014-12-13T17:59:59.999Z") },
+    };
 
     public static final TimeZone CONFERENCE_TIMEZONE = TimeZone.getTimeZone("Africa/Lagos");
 
@@ -91,19 +91,19 @@ public class Config {
     public static final String LIVESTREAM_CAPTIONS_DARK_THEME_URL_PARAM = "&theme=dark";
 
     // Conference public WiFi AP parameters
-    public static final String WIFI_SSID = "IO2014";
-    public static final String WIFI_PASSPHRASE = "letsdothis";
+    public static final String WIFI_SSID = "gdays";
+    public static final String WIFI_PASSPHRASE = "gDaysLasgidi";
 
     // GCM config
-    public static final String GCM_SERVER_PROD_URL = "";
-    public static final String GCM_SERVER_URL = "";
+    public static final String GCM_SERVER_PROD_URL = "https://gdg-gdays-2014.appspot.com";
+    public static final String GCM_SERVER_URL = "https://gdg-gdays-2014.appspot.com";
 
     // the GCM sender ID is the ID of the app in Google Cloud Console
-    public static final String GCM_SENDER_ID = "";
+    public static final String GCM_SENDER_ID = "655568221580";
 
     // The registration api KEY in the gcm server (configured in the GCM
     // server's AuthHelper.java file)
-    public static final String GCM_API_KEY = "";
+    public static final String GCM_API_KEY = "AppGDays123";
 
     // When do we start to offer to set up the user's wifi?
     public static final long WIFI_SETUP_OFFER_START =

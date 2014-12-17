@@ -18,13 +18,16 @@ apply plugin: 'java'
 apply plugin: 'gae'
 apply plugin: 'eclipse'
 
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7
+
 buildscript {
     repositories {
         mavenCentral()
     }
 
     dependencies {
-        classpath 'org.gradle.api.plugins:gradle-gae-plugin:0.8'
+        classpath 'org.gradle.api.plugins:gradle-gae-plugin:0.9'
     }
 }
 
@@ -61,7 +64,7 @@ gae {
         }
 
         app {
-            id = 'iosched-gcm-dev'
+            id = 'gdg-gdays-2014'
         }
     }
 }
