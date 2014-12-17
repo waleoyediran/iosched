@@ -35,6 +35,7 @@ local.properties
 
 # Local IDEA workspace
 .idea/workspace.xml
+release.properties
 
 # Gradle cache
 .gradle
